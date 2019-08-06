@@ -1,6 +1,6 @@
 # liugq_h5 vue-cli 多目录项目配置
 
-# [项目配置教程地址](http://www.xiangjv.top/indexDetail/121)
+## 项目配置教程地址 (http://www.xiangjv.top/indexDetail/121)
 
 * vue-cli 多目录项目配置
 * 一套代码支持多个项目的解决方案
